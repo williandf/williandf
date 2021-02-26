@@ -15,8 +15,9 @@
 <a target="_blank" href="https://fb.com/wdelfreu">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<br>
 <hr></hr>
+<br>
 
 ![Willian GitHub Stats](https://github-readme-stats.vercel.app/api?username=williandf&show_icons=true)
 
