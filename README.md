@@ -1,7 +1,5 @@
 <h3>👋 Hello World, I'm Willian! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;" /></h3>
 
-![Willian GitHub Stats](https://github-readme-stats.vercel.app/api?username=williandf&show_icons=true)
-
 <a target="_blank" href="https://www.linkedin.com/in/willian-delfreu/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -17,6 +15,12 @@
 <a target="_blank" href="https://fb.com/wdelfreu">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+<hr></hr>
+
+![Willian GitHub Stats](https://github-readme-stats.vercel.app/api?username=williandf&show_icons=true)
+
+
 <!--
 **williandf/williandf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
