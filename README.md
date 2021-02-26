@@ -1,4 +1,4 @@
-<h3>👋 Hello World, I'm Willian! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" /></h3>
+<h3>👋 Hello World, I'm Willian! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;" /></h3>
 
 ![Willian GitHub Stats](https://github-readme-stats.vercel.app/api?username=williandf&show_icons=true)
 
