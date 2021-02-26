@@ -1,7 +1,7 @@
 <h3>👋 Hello World, I'm Willian! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;" /></h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/willian-delfreu/">
-  <svg align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511941836001">
   <img align="left" alt="Whatsapp" width="22px" color="#34af23" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" />
