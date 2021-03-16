@@ -53,9 +53,9 @@
   <hr></hr>  
 
 
-![Willian GitHub Stats](https://github-readme-stats.vercel.app/api?username=williandf&show_icons=true)
+![Willian GitHub Stats]
+(https://github-readme-stats.vercel.app/api?username=williandf&show_icons=true)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=williandf;hide=TeX&amp;layout=compact)
 
 
 
