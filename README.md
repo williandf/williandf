@@ -1,4 +1,6 @@
-
+<p align="left">
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/83811d2a1286712d3cad21594a7cab774745f7d24b826dcf4cf9096e0380024b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c6973736f6e616e647261646532303230"><img src="https://camo.githubusercontent.com/83811d2a1286712d3cad21594a7cab774745f7d24b826dcf4cf9096e0380024b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c6973736f6e616e647261646532303230" alt="dexternatan" data-canonical-src="https://komarev.com/ghpvc/?username=williandf" style="max-width:100%;"></a>
+ </p>
 <h3>👋 Hello World, I'm Willian! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;" /></h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/willian-delfreu/">
@@ -52,6 +54,8 @@
 
 
 ![Willian GitHub Stats](https://github-readme-stats.vercel.app/api?username=williandf&show_icons=true)
+
+
 
 
 <!--
