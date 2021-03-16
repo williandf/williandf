@@ -53,8 +53,7 @@
   <hr></hr>  
 
 
-![Willian GitHub Stats]
-(https://github-readme-stats.vercel.app/api?username=williandf&show_icons=true)
+![Willian GitHub Stats](https://github-readme-stats.vercel.app/api?username=williandf&show_icons=true)
 
 
 
