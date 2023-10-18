@@ -23,7 +23,7 @@
 <br>
 <p>Hi I'm Willian. </p>
 <br>
-<p>I'm a Full Stack JavaScript Developer from Brazil 💚, 38 years old and 7 years of coding 🧐.
+<p>I'm a Full Stack JavaScript Developer from Brazil 💚, 39 years old and 8 years of coding 🧐.
 <br>
   <ul>
     <li>
